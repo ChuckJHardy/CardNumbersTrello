@@ -1,4 +1,5 @@
-.list-card-title .card-short-id {
-  display: block;
+.list-card-title .card-short-id.hide {
+  display: inline-block!important;
+  margin-right: 5px;
   font-weight: bold;
 }

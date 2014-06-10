@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Card Numbers for Trello</string>
 	<key>CFBundleIdentifier</key>
-	<string>coffee.insert.cardnumbersfortrello</string>
+	<string>coffee.insert.cardnumberstrello</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -37,7 +37,7 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
-				<string>https://trello.com/</string>
+				<string>trello.com</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
