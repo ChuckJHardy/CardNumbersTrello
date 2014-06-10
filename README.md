@@ -4,7 +4,7 @@ A port of Mikespokefire Chrome Extension [Card Numbers For Trello](https://githu
 
 ## Contributing
 
-    $ git clone git@github.com:ChuckJHardy/CardNumbersTrello.git ~/Downloads/CardNumbersTrello.safariextension
+    $ git clone git@github.com:ChuckJHardy/CardNumbersTrello.git ~/Downloads/CardNumbersTrello
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
