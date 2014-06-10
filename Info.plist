@@ -45,5 +45,7 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/ChuckJHardy/CardNumbersTrello</string>
 </dict>
 </plist>
